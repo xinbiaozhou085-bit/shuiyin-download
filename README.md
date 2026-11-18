@@ -12,14 +12,14 @@
 
 | 系统 | 文件 | 说明 |
 |---|---|---|
-| Windows 10 / 11 64 位 | `短视频去水印_v1.2.12_Windows.zip` | 解压后双击里面的安装包 |
-| Mac（Apple 芯片 M1/M2/M3/M4） | `短视频去水印_v1.2.12_Mac.zip` | 解压后把 .app 拖进「应用程序」 |
+| Windows 10 / 11 64 位 | `shuiyin-v1.2.12-windows-x64.zip` | 解压后双击里面的安装包 |
+| Mac（Apple 芯片 M1~M4） | `shuiyin-v1.2.12-mac-apple-silicon.zip` | 解压后把 .app 拖进「应用程序」 |
 
 直接链接：
 
 - Releases 页面：<https://github.com/xinbiaozhou085-bit/shuiyin-download/releases/latest>
-- Windows：<https://github.com/xinbiaozhou085-bit/shuiyin-download/releases/latest/download/短视频去水印_v1.2.12_Windows.zip>
-- Mac：<https://github.com/xinbiaozhou085-bit/shuiyin-download/releases/latest/download/短视频去水印_v1.2.12_Mac.zip>
+- Windows：<https://github.com/xinbiaozhou085-bit/shuiyin-download/releases/latest/download/shuiyin-v1.2.12-windows-x64.zip>
+- Mac：<https://github.com/xinbiaozhou085-bit/shuiyin-download/releases/latest/download/shuiyin-v1.2.12-mac-apple-silicon.zip>
 
 ---
 
